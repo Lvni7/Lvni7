@@ -13,8 +13,8 @@ I also build open-source tools that make AI coding agents more useful: skills th
 <p><a href="https://github.com/Lvni7/logo-kit"><b>logo-kit</b></a><br>One SVG logo → a complete, client-ready brand kit: 64 files, from favicons to social media banners, in under a minute.</p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Lvni7/og-kit"><img src="https://raw.githubusercontent.com/Lvni7/og-kit/main/assets/cards.png" alt="Share images made by og-kit"></a>
-<p><a href="https://github.com/Lvni7/og-kit"><b>og-kit</b></a><br>A share image for every page of a website, in the brand's style, and a check of every link preview.</p>
+<a href="https://github.com/Lvni7/link-preview-images"><img src="https://raw.githubusercontent.com/Lvni7/link-preview-images/main/assets/cards.png" alt="Share images made by link-preview-images"></a>
+<p><a href="https://github.com/Lvni7/link-preview-images"><b>link-preview-images</b></a><br>The picture people see when your link is shared, made for every page of your website, then checked.</p>
 </td>
 </tr>
 <tr>
@@ -23,7 +23,12 @@ I also build open-source tools that make AI coding agents more useful: skills th
 <p><a href="https://github.com/Lvni7/claude-code-image-preview"><b>claude-code-image-preview</b></a><br>See the images you paste or drag into Claude Code before you press Enter.</p>
 </td>
 <td width="50%" valign="top">
-<p><a href="https://github.com/Lvni7/duel"><b>duel</b></a><br>GPT cross-reviews your coding agent's plans and code, then the two models debate. Each finding is checked, accepted or rejected with evidence, and written down.</p>
+<a href="https://github.com/Lvni7/gpt-second-opinion"><img src="https://raw.githubusercontent.com/Lvni7/gpt-second-opinion/main/assets/overview.png" alt="How gpt-second-opinion works"></a>
+<p><a href="https://github.com/Lvni7/gpt-second-opinion"><b>gpt-second-opinion</b></a><br>GPT reviews your coding agent's plans and code, then the two models debate. Every finding is checked and written down.</p>
 </td>
 </tr>
 </table>
+
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/lenimette)
